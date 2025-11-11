@@ -1,8 +1,11 @@
-# Examen Parcial 2. Django: Vistas, Templates y Modelos
+# Examen Parcial. Django: Vistas, Templates y Modelos
 
 En el presente examen se evaluarán los conocimientos de los estudiantes sobre el desarrollo de interfaces web utilizando el patrón Modelo-Vista-Controlador (MVC) con Django, HTML y CSS.
 
 Para el examen se propone crear un catálogo de pelíclas que se mostrarán en una vista Maestro - Detalle.
+
+## Datos del estudiante
+- [Nombres y apellidos]
 
 ## Objetivos 
 
